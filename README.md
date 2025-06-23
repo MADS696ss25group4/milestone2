@@ -13,7 +13,7 @@ Project Topic: Predicting Housing Damage From Hurricanes
 ** Sample file containing first 100 records if full dataset is too large
 
 ## About the project files
-The US County shape files used in Maps.ipynb is available here [https://www2.census.gov/geo/tiger/TIGER2024/COUNTY/tl_2024_us_county.zip]
+The US County shape files used in Maps.ipynb is available [here](https://www2.census.gov/geo/tiger/TIGER2024/COUNTY/tl_2024_us_county.zip)
 
 ## About the project
 
