@@ -9,6 +9,7 @@ Project Topic: Predicting Housing Damage From Hurricanes
 * All source code/files
 * Project data (in one of the following formats)
 ** Actual files if less than 25Mb
+** Need geo_data.txt
 ** Working URLS
 ** Sample file containing first 100 records if full dataset is too large
 
