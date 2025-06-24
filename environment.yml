@@ -1,0 +1,19 @@
+name: milestone2
+channels:
+  - defaults
+dependencies:
+  - ipykernel
+  - dask
+  - scikit-learn
+  - seaborn
+  - matplotlib
+  - plotly
+  - nbformat
+  - shap
+  - conda-forge::xgboost
+  - conda-forge::census
+  - regex
+  - yellowbrick
+  - geopy
+  - geopandas
+prefix: /Users/joschw/opt/anaconda3/envs/milestone2
