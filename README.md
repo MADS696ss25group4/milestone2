@@ -22,7 +22,7 @@ All necessary data files and notebooks are included. Running them in order would
 
 Most of the data files necessary for running all notebooks are included in this repo. For those that are missing:
 
-* The US County shape files used in Maps.ipynb is available [here](https://www2.census.gov/geo/tiger/TIGER2024/COUNTY/tl_2024_us_county.zip)
+* The US County shape files used in Maps.ipynb are available in a zip file [here](https://www2.census.gov/geo/tiger/TIGER2024/COUNTY/tl_2024_us_county.zip)
 * The 10Gb full Individuals and Households Program - Valid Registrations file, used in the fema_registrations_aggregate_attempt notebook, is availble [here](https://www.fema.gov/openfema-data-page/individuals-and-households-program-valid-registrations-v2)
 
 ## About the project team
