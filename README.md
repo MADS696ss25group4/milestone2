@@ -2,10 +2,9 @@
 This is the Milestone II Project Repo for Group 4.
 Project Topic: Predicting Housing Damage From Hurricanes 
 
-## Need to haves:
-* Link to Google Doc
-* Doc must have comments turned on
-* PDF of the final Doc
+## Project report
+* [Link to Google Doc](https://docs.google.com/document/d/1dron6V7wZR9WFQRtTaNarwjXpZ5SqNVi/edit?usp=sharing&ouid=116643774103690609091&rtpof=true&sd=true)
+* A PDF version is also available in this repo as Project_Report.pdf
 
 ## About the project
 This project aims to develop a machine learning model that can predict the number of housing units at the county level along a storm’s path that will experience severe damage after a hurricane.  Hurricanes are the most damaging natural disasters that frequently occur in the United States.  Delayed and inadequately resourced responses put people at risk, increase time for a community to recover, and cause major political fallout.    Developing the ability to predict severe damage can help with disaster planning and response.  For instance, if many homes are in danger of severe damage, the Red Cross can arrange for more shelter space and supplies.  HUD can conduct analysis on how many temporary vouchers they may need to issue.  FEMA can anticipate the additional supplies or resources that may be needed at the state level, and can issue mission assignments more effectively during response operations.  With better predictions, the entire emergency management community can more effectively help people during their greatest time of need.
